@@ -1,0 +1,45 @@
+/* styles for HCS LMS */
+
+/* ---------------------------- */
+/* Universal Styles */
+.course-table {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+}
+/* ---------------------------- */
+
+/* ---------------------------- */
+/* splash/front page of course */
+.hero-table-td-top-line {
+    background-color: #008080; 
+    width: 80%; 
+    height: 5px;
+}
+
+.hero-image-table {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 200px;
+}
+
+.hero-table-td-btm-line {
+    height: 5px; 
+    background-color: #008080; 
+    width: 40%;
+}
+
+.grey-td-title-breaker {
+    width: 33%; 
+    max-width: 425px; 
+    background-color: #f0f0f0;
+}
+
+.grey-td-title-breaker-sml {
+    width: 25%; 
+    max-width: 300px; 
+    background-color: #f0f0f0;
+}
+/* ---------------------------- */
+
