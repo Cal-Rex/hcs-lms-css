@@ -1,0 +1,192 @@
+/* styles for Straumann LMS */
+
+/* ---------------------------- */
+/* general styles */
+
+.strau-header-separator {
+    height: 5px;
+    background-color: #46b98c;
+    width: 45%;
+    max-width: 450px
+}
+
+.strau-br {
+    height: 3px;
+    background-color: #46b98c;
+    width: 100%;
+    max-width: 1000px;
+}
+
+/* ---------------------------- */
+
+/* ---------------------------- */
+/* splash/front page of course */
+
+.strau-splash {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    background-image: url(/media/straumann/str-hero-9.webp);
+    background-size: cover;
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+}
+
+.strau-logo-w {
+    height: 75px; 
+    background-image: url(/media/straumann/str-group-white.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.strau-splash-text-box {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    background-color: #1f2123;
+    font-size: 1.25rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cbced2;
+    padding: 15px;
+}
+
+/* ---------------------------- */
+
+/* ---------------------------- */
+/* Navigation stuff */
+
+.strau.nav-arrow {
+    width: 35%;
+    background-image: url(/media/straumann/instructional/strau-nav-arrow.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50% 50%;
+} /* To be inserted into the left td of a 2 column table */
+
+/* ---------------------------- */
+
+/* ---------------------------- */
+/* headers */
+
+.strau-line-top {
+    background-color: #4e545a;
+    width: 50%;
+    max-width: 500px;
+    height: 2px;
+} /* to be added above a header banner, with a line break or space inbetween */
+
+.strau-line-btm {
+    height: 4px; 
+    width: 40%;
+    max-width: 400px;
+    background-color: #46b98c;
+}  /* to be added below a header banner, with a line break or space inbetween */
+
+.strau-header-1 {
+    margin: 0 auto;
+    height: 150px;
+    width: 100%; 
+    max-width: 1000px;
+    background-image: url(/media/straumann/str-hero-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 35%;
+}
+
+.strau-header-2 {
+    margin: 0 auto;
+    height: 150px;
+    width: 100%; 
+    max-width: 1000px;
+    background-image: url(/media/straumann/str-hero-6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 30%;
+}
+
+.strau-header-3 {
+    margin: 0 auto;
+    height: 150px;
+    width: 100%; 
+    max-width: 1000px;
+    background-image: url(/media/straumann/str-hero-5.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 10%;
+}
+
+.strau-header-4 {
+    margin: 0 auto;
+    height: 150px;
+    width: 100%; 
+    max-width: 1000px;
+    background-image: url(/media/straumann/str-hero-7.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 30%;
+}
+
+.strau-header-5 {
+    margin: 0 auto;
+    height: 150px;
+    width: 100%; 
+    max-width: 1000px;
+    background-image: url(/media/straumann/str-hero-2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 20%;
+}
+
+.strau-header-6 {
+    margin: 0 auto;
+    height: 150px;
+    width: 100%; 
+    max-width: 1000px;
+    background-image: url(/media/straumann/str-hero-3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 20%;
+}
+
+.strau-header-6 {
+    margin: 0 auto;
+    height: 150px;
+    width: 100%; 
+    max-width: 1000px;
+    background-image: url(/media/straumann/str-hero-4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 0%;
+}
+
+.strau-implantology-header {
+    margin: 0 auto;
+    height: 100%;
+    min-height: 200px;
+    max-height: 249px;
+    width: 100%; 
+    max-width: 1000px;
+    background-image: url(/media/straumann/implantology-hero.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom left;
+}
+
+/* ---------------------------- */
+
+/* ---------------------------- */
+/* header text */
+
+.header-text {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    background-color: #1f2123;
+    color: #cbced2;
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---------------------------- */
