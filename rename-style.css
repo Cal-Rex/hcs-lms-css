@@ -17,11 +17,36 @@
     height: 5px;
 }
 
-.hero-image-table {
+.hero-image-table-non-clin {
     margin: 0 auto;
     width: 100%;
     max-width: 1000px;
     height: 200px;
+    background-image: url(/media/generic/non-clin-splash.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero-image-table-clin {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 200px;
+    background-image: url(/media/generic/splash-clin-crop.webp);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero-image-table-blank {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .hero-table-td-btm-line {
@@ -42,4 +67,62 @@
     background-color: #f0f0f0;
 }
 /* ---------------------------- */
+
+/* ---------------------------- */
+/* Generic Sections */
+
+.header-table-nav {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(/media/generic/keyboard.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header-table-assessment {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(/media/generic/assessment.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header-table-classroom {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(/media/generic/study-hands.jpg);
+    background-position: 50% 75%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header-table-book {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(/media/generic/book-pen.jpg);
+    background-position: 50% 85%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header-table-pen {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(/media/generic/study-pen.jpg);
+    background-position: 50% 70%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
