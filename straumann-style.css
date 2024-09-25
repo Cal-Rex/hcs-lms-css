@@ -57,7 +57,7 @@
 /* ---------------------------- */
 /* Navigation stuff */
 
-.strau.nav-arrow {
+.strau-nav-arrow {
     width: 35%;
     background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259158/strau-nav-arrow_ybgnf1.png");
     background-repeat: no-repeat;
@@ -114,7 +114,7 @@
     background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259157/str-hero-5_qmb7oq.webp");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 50% 10%;
+    background-position: 50% 20%;
 }
 
 .strau-header-4 {
@@ -136,7 +136,7 @@
     background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259156/str-hero-2_sxl1h0.webp");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 50% 20%;
+    background-position: 50% 23.5%;
 }
 
 .strau-header-6 {
@@ -150,7 +150,7 @@
     background-position: 50% 20%;
 }
 
-.strau-header-6 {
+.strau-header-7 {
     margin: 0 auto;
     height: 150px;
     width: 100%; 
