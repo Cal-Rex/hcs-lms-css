@@ -30,7 +30,7 @@
     width: 100%;
     max-width: 1000px;
     height: 200px;
-    background-image: url(/media/generic/non-clin-splash.jpg);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259436/non-clin-splash_hby9zr.jpg");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@
     width: 100%;
     max-width: 1000px;
     height: 200px;
-    background-image: url(/media/generic/splash-clin-crop.webp);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259440/splash-clin-crop_cp6hjt.webp");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -84,20 +84,20 @@
     width: 100%;
     max-width: 1000px;
     height: 300px;
-    background-image: url(/media/generic/instructional/scroll-demo.gif);
+    background-image: url('');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: 50% 50%;
 }
 
 .brgr-example-idle {
-    src: url(/media/generic/instructional/hamburger-idle.png);
+    src: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259310/hamburger-idle_afubmc.png);
     width: 50;
     height: 39;
 }
 
 .brgr-example-hover {
-    src: url(/media/generic/instructional/hamburger-hover.png);
+    src: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259311/hamburger-hover_kt6srw.png);
     width: 149;
     height: 42;
 }
@@ -112,7 +112,7 @@
     width: 100%;
     max-width: 1000px;
     height: 100px;
-    background-image: url(/media/generic/keyboard.jpg);
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259439/keyboard_kvzmod.jpg);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -123,7 +123,7 @@
     width: 100%;
     max-width: 1000px;
     height: 100px;
-    background-image: url(/media/generic/assessment.jpg);
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259438/assessment_rzboxf.jpg);
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -134,7 +134,7 @@
     width: 100%;
     max-width: 1000px;
     height: 100px;
-    background-image: url(/media/generic/study-hands.jpg);
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259438/study-hands_dhuysn.jpg);
     background-position: 50% 75%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -145,7 +145,7 @@
     width: 100%;
     max-width: 1000px;
     height: 100px;
-    background-image: url(/media/generic/book-pen.jpg);
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259437/book-pen_xgo5ct.jpg);
     background-position: 50% 85%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -156,7 +156,7 @@
     width: 100%;
     max-width: 1000px;
     height: 100px;
-    background-image: url(/media/generic/study-pen.jpg);
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259437/study-pen_ieztem.jpg);
     background-position: 50% 70%;
     background-size: cover;
     background-repeat: no-repeat;

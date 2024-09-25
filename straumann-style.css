@@ -26,7 +26,7 @@
     margin: 0 auto;
     width: 100%;
     max-width: 1000px;
-    background-image: url(/media/straumann/str-hero-9.webp);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259158/str-hero-9_jfgogj.webp");
     background-size: cover;
     background-position: 50% 60%;
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 
 .strau-logo-w {
     height: 75px; 
-    background-image: url(/media/straumann/str-group-white.svg);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259221/str-group-white_ujhdjy.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -59,7 +59,7 @@
 
 .strau.nav-arrow {
     width: 35%;
-    background-image: url(/media/straumann/instructional/strau-nav-arrow.png);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259158/strau-nav-arrow_ybgnf1.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: 50% 50%;
@@ -89,7 +89,7 @@
     height: 150px;
     width: 100%; 
     max-width: 1000px;
-    background-image: url(/media/straumann/str-hero-1.webp);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259158/str-hero-1_vptre8.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 35%;
@@ -100,7 +100,7 @@
     height: 150px;
     width: 100%; 
     max-width: 1000px;
-    background-image: url(/media/straumann/str-hero-6.png);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259158/str-hero-6_fuv2wd.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 30%;
@@ -111,7 +111,7 @@
     height: 150px;
     width: 100%; 
     max-width: 1000px;
-    background-image: url(/media/straumann/str-hero-5.webp);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259157/str-hero-5_qmb7oq.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 10%;
@@ -122,7 +122,7 @@
     height: 150px;
     width: 100%; 
     max-width: 1000px;
-    background-image: url(/media/straumann/str-hero-7.webp);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259157/str-hero-7_wkpo7d.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 30%;
@@ -133,7 +133,7 @@
     height: 150px;
     width: 100%; 
     max-width: 1000px;
-    background-image: url(/media/straumann/str-hero-2.webp);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259156/str-hero-2_sxl1h0.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 20%;
@@ -144,7 +144,7 @@
     height: 150px;
     width: 100%; 
     max-width: 1000px;
-    background-image: url(/media/straumann/str-hero-3.webp);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259157/str-hero-3_qlbzha.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 20%;
@@ -155,7 +155,7 @@
     height: 150px;
     width: 100%; 
     max-width: 1000px;
-    background-image: url(/media/straumann/str-hero-4.png);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259156/str-hero-4_zfsqkg.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 0%;
@@ -168,7 +168,7 @@
     max-height: 249px;
     width: 100%; 
     max-width: 1000px;
-    background-image: url(/media/straumann/implantology-hero.webp);
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727259221/implantology-hero_i1pbod.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom left;
