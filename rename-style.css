@@ -13,8 +13,8 @@
     background-color: #008080; 
     width: 45%;
     max-width: 450px;
-}
-    /* to be applied to a table to make line for a heading */
+} /* to be applied to a table to make line for a heading */
+    
 /* ---------------------------- */
 
 /* ---------------------------- */
@@ -73,6 +73,17 @@
     width: 25%; 
     max-width: 300px; 
     background-color: #f0f0f0;
+}
+
+.hcs-logo-table {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 60px;
+    background-image: url('https://res.cloudinary.com/dtti7yx5s/image/upload/v1727774304/logo-hcs_crfdng.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 /* ---------------------------- */
 
