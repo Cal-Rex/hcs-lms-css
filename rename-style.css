@@ -85,6 +85,13 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+.splash-text-btm-separator-td {
+    width: 66%;
+    background-color: #008080;
+    height: 2px;
+}
+
 /* ---------------------------- */
 
 /* ---------------------------- */
