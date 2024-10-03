@@ -141,6 +141,14 @@
     height: 42;
 }
 
+.nav-arrow {
+    width: 35%;
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1727953979/nav_arrow_bqjkzm.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50% 50%;
+} /* To be inserted into the left td of a 2 column table */
+
 /* ---------------------------- */
 
 /* ---------------------------- */
