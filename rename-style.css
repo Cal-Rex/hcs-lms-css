@@ -25,6 +25,14 @@
     letter-spacing: 1px;
 }
 
+.hcs-br {
+    height: 3px;
+    background-color: #008080;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 /* ---------------------------- */
 
 /* ---------------------------- */
