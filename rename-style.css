@@ -96,6 +96,17 @@
     background-size: contain;
 }
 
+.hcs-logo-table-white {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 60px;
+    background-image: url('https://res.cloudinary.com/dtti7yx5s/image/upload/v1727953008/logo-hcs-white-w-shadow_frfi5j.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 .splash-text-btm-separator-td {
     width: 66%;
     background-color: #008080;
