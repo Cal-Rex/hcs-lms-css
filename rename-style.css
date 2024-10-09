@@ -2,6 +2,10 @@
 
 /* ---------------------------- */
 /* Universal Styles */
+table, div, p, span {
+    letter-spacing: 1px;
+}
+
 .course-table {
     margin: 0 auto;
     width: 100%;
