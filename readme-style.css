@@ -13,3 +13,9 @@
     background-color: #3a3a3a;
     width: 100%;
 }
+
+pre {
+    text-wrap-mode: wrap;
+    background-color: #3a3a3a;
+    color: #ffffff;
+}
