@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.preview {
+    border: 1px solid #bcbcbc78;
+    border-radius: 5px;
+}
+
+.preview-window {
+    border: 1px solid #bcbcbc78;
+    border-radius: 5px;
+    background-color: #3a3a3a;
+    width: 100%;
+}
