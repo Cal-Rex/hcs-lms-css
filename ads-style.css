@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* font import: Fira Sans*/
+
+/* Splash page components */
+
+.ads-hero-image {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 200px;
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1742896080/30_obvtax.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ads-logo-table {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 60px;
+    background-image: url('https://res.cloudinary.com/dtti7yx5s/image/upload/v1742895932/logo_vgbalp.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.ads-heading-separator {
+    height: 5px; 
+    background-color: #c51627; 
+    width: 45%;
+    max-width: 450px;
+} /* to be applied to a table to make line for a heading */
+
+.ads-splash-text-btm-separator-td {
+    width: 66%;
+    background-color: #c51627;
+    height: 2px;
+} /* to be added to a 3 x 1 table middle td */
+
+.ads-splash-text-box {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    font-size: 1.1rem;
+    text-align: center;
+    font-family: "Fira Sans", Helvetica, sans-serif;
+    letter-spacing: 1px;
+    background-color: #1a1a1a;
+    color: #fafafa;
+}
+
+.ads-br {
+    height: 3px;
+    background-color: #c51627;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.ads-course-table {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    letter-spacing: 1px;
+    background-color: #1a1a1a;
+    font-family: "Fira Sans", Helvetica, sans-serif;
+    color: #fafafa;
+}
+
+/* section components */
+
+.ads-section-underline {
+    width: 50%;
+    max-width: 450px;
+    margin-left: 2%;
+    height: 2px;
+    background-color: #868a96;
+} /* to be added into table in section description to underline title */
+
+.ads-nav-arrow {
+    width: 35%;
+    background-image: url("https://res.cloudinary.com/dtti7yx5s/image/upload/v1742896353/co-arrow_vjv5lv.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50% 50%;
+} /* To be inserted into the left td of a 2 column table */
+
+.ads-header-table-nav {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1742896238/default-slide-image_m9fagw.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ads-header-table-one {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(hthttps://res.cloudinary.com/dtti7yx5s/image/upload/v1742896408/13_hnievw.jpg);
+    background-position: 50% 75%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ads-header-table-two {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1742896519/11_e2uwxb.jpg);
+    background-position: 50% 75%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ads-header-table-three {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1742896559/4_wzuw9i.jpg);
+    background-position: 50% 75%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ads-header-table-four {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 100px;
+    background-image: url(https://res.cloudinary.com/dtti7yx5s/image/upload/v1742896473/16_jlbvzq.jpg);
+    background-position: 50% 75%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
